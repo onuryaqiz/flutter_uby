@@ -1,0 +1,4 @@
+Merhaba, bu bir deneme metnidir.
+Dart ile dosya okuma örneği.
+Her satır iki saniye aralıkla yazdırılacak.
+Stream kullanımıyla asenkron işlemleri göstermek için oluşturulmuştur.
